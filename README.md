@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshithanaverse
+## Hello, I am Akshitha
 
 
 <!---
