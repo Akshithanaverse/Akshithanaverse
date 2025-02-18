@@ -14,8 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - **Languages**: JavaScript, Python, Java, HTML, CSS
 - **Frameworks**: React, Node.js, Express.js, Bootstrap
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, Kubernetes
-- **Cloud**: AWS, Azure
+- **Tools**: Git
 
 ## 👯 Collaboration
 - Looking to collaborate on open-source projects and innovative ideas.
