@@ -29,7 +29,8 @@ Feel free to explore my repositories and reach out if you'd like to connect or c
 ## 📊 GitHub Stats
 
 ![Akshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshithanaverse&show_icons=true&theme=radical)
-[![Akshitha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshithanaverse&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshithanaverse&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Akshitha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshithanaverse&theme=radical)](https://git.io/streak-stats)
+
 
 
