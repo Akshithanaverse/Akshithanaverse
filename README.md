@@ -1,4 +1,4 @@
-## Hello, I am Akshitha
+<h1 align="center">Hello, I am Akshitha</h1>
 
 
 <!---
