@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🚀 What I'm Working On
 - **Open Source Contributions**: Actively contributing to various open-source projects.
-- **Learning**: Currently diving deep into AI and Machine Learning along with Data Structures and Algorithms.
+- **Learning**: Currently diving deep into Full Stack web development, AI and Machine Learning along with Data Structures and Algorithms.
 
 ## 🌱 Skills
 - **Languages**: JavaScript, Python, Java, HTML, CSS
