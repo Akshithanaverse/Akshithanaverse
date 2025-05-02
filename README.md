@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - **Learning**: Currently diving deep into Full Stack web development, AI and Machine Learning along with Data Structures and Algorithms.
 
 ## 🌱 Skills
-- **Languages**: JavaScript, Python, Java, HTML, CSS
-- **Frameworks**: React.js, Node.js, Express.js, Bootstrap
+- **Languages**: JavaScript, Python, Java (Data Structures and Algorithms) , HTML, CSS, SQL
+- **Libraries and Frameworks**: React.js, Node.js, Express.js, Bootstrap, Tailwind CSS
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, Github, MongoDB Atlas, Render, VSCode
+- **Tools**: Git, Github, MongoDB Atlas, Render, VSCode, Vercel
 
 ## 👯 Collaboration
 - Looking to collaborate on open-source projects and innovative ideas.
